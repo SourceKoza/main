@@ -8,7 +8,7 @@ public class UserController {
 
     @GetMapping("/name")
     public String getUserName() {
-        return  "Ramesh in spring boot";
+        return  "No Ramesh this is new branch";
     }
 
 
