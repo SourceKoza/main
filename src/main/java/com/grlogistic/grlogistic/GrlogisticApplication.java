@@ -8,7 +8,7 @@ public class GrlogisticApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GrlogisticApplication.class, args);
-		System.out.println("Hello World!");
+
 	}
 
 }
