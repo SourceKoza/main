@@ -8,7 +8,7 @@ public class UserController {
 
     @GetMapping("/name")
     public String getUserName() {
-        return  "No Ramesh this is new branch";
+        return  "No Ramesh this is new deepak ji branch";
     }
 
 
